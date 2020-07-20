@@ -1,0 +1,25 @@
+1 What is Python ? What are the ways to install python 
+
+Answer:
+python is a high level interpreted language and it is
+open source language which makes it
+free for everyone.
+Ways to install python in pc:
+1 python official website
+2 anaconda navigator official website
+3using Google colab you can implement python codes without
+downloading.
+
+2 What are the Enviroments ? Types?
+
+Answer:
+A code environment is a standalone and self-contained
+environment to run Python. Each code environment has
+its own set of packages. Environments are independent:
+you can install different packages or different
+ersions of packages in different environments without
+interaction between them.
+Types:
+1 Text-Editors.
+2 IDEs.
+3 Notebook Environments.
